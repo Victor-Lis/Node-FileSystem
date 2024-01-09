@@ -1,0 +1,15 @@
+{
+  "name": "file-stystem-project",
+  "version": "1.0.0",
+  "description": "Esse é um projeto para treinar meus conhecimentos sobre a manipulação de arquivos com NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Victor-Lis"
+  },
+  "author": "Dev-Victor-Lis",
+  "license": "ISC"
+}
